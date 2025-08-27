@@ -72,7 +72,7 @@ const LockGame = () => {
 
       {unlocked && (
         <div className="mt-6 text-green-400 text-2xl animate-bounce">
-          Coffre déverrouillé !
+          Coffre déverrouillé ! Code : 4712
         </div>
       )}
     </div>
